@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head><style>
+ #ww{width:960px;margin:auto}
+ #ww a img{width:960px;}
+ #ee{width:960px;margin:auto;height:620px}
+ #ee div{background:#ddd;float:left;margin-bottom:10px;}
+ #ee div.tt{width:610px;height:370px;margin-right:10px;position:relative;}
+ #ee div.yy{width:340px;height:370px;position:relative;}
+ #ee div.uu{width:360px;height:230px;position:relative;}
+ #ee div.ii{width:190px;height:230px;margin-left:10px;position:relative;}
+ #rr img{margin-right:10px;}
+ #rr{border-bottom:solid 2px #ddd;margin:10px 0 5px;width:960px;padding-bottom:5px;font-size:20px;}
+ #wo li{float:left;width:240px;text-align:center;}
+ #wo{width:960px;margin:0 auto;list-style:none;padding:0;}
+ .okc{width:250px;height:270px;border:mix 1px solid;position:absolute;left:50px;top:20px;}
+ #ee .tt img{position:absolute;left:190px;top:70px;}
+ h3{color:#0aa1ed;}
+ div .qz{background:#0aa1ed;text-decoration:none;color:white;border:mix solid 1px;border-radius:5px;padding:7px;}
+ .qzz{border:mix 1px solid width:250px;height:250px;position:absolute;left:1px;top:20px;}
+ .yy .qzz img{position:absolute;left:50px;top:100px;}
+ .yy .qzz h6{margin-top:-15px}
+ .uu .wr{border:mix 1px solid;width:110px;height:150px;position:absolute;left:30px;top:20px;}
+ .uu .wr h3{margin-top:-20px;}
+ .uu .wr img{position:absolute;left:120px;top:20px;}
+ .ii .lb h3{margin-top:-20px;}
+ .ii .lb{border:1px mix solid;width:180px;height:100px;position:absolute;left:5px;top:100px;text-align:center;}
+ </style>
+ <body><div id=ww>
+ <a href="http://www.tmooc.cn" target="_blank"
+ ><img src="1.png"></a>
+ <div id="rr"><img src="111.png">首页推荐 /1F</div>
+ </div>
+ <div id="ee">
+ <div class="tt"><div class="okc"><h1>apple macbook<br>
+air系列</h1><h6>酷睿双核i5处理器|256GB SSD|8GB内存|英特<br>尔HD显卡620含共享显卡内存</h6><a ></a><h3>￥6988.00</h3><a class="qz" href="http://www.codeboy.com/product_details.html?lid=1">查看详情</a></div><img src="12.png"></div>
+ <div class="yy"><div class="qzz"><h1>小米Air 金属超<br>轻薄</h1><h6>酷睿双核i5处理器|512GB SSD|2GB内存|英特尔<br>HD独立显卡</h6><h3>￥3488.00</h3><a class="qz" href="http://www.codeboy.com/product_details.html?lid=5">查看详情</a><img src="22.jpg"></div></div>
+ <div class="uu"><div class="wr"><h4>联想E480C 轻<br>薄系列</h4><h3>￥5399.00</h3><a class="qz" href="http://www.codeboy.com/product_details.html?lid=9">查看详情</a><img src="32.png"></div></div>
+ <div class="ii"><img src="42.png"><div class="lb"><h6>华硕RX310 金属超极本</h6><h3>￥4966.00</h3><a class="qz" href="http://www.codeboy.com/product_details.html?lid=13">查看详情</a></div></div>
+ <div class="ii"><img src="52.png"><div class="lb"><h6>联想小新700 电竞版游戏本</h6><h3>￥6299.00</h3><a class="qz" href="http://www.codeboy.com/product_details.html?lid=17">查看详情</a></div></div>
+ <div class="ii"><img src="62.png"><div class="lb"><h6>戴尔灵越燃7000 轻薄窄边</h6><h3>￥5199.00</h3><a class="qz" href="http://www.codeboy.com/product_details.html?lid=19">查看详情</a></div></div>
+ </div>
+ <ul id="wo">
+ <li><img src="q.png"><p>品质保障</p></li>
+ <li><img src="w.png"><p>私人订制</p></li>
+ <li><img src="e.png"><p>学员特供</p></li>
+ <li><img src="r.png"><p>专属特权</p></li>
+ </ul>
+ </body>
+</html>
